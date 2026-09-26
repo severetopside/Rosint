@@ -3,7 +3,7 @@
 // you can eyeball a removal request in a few seconds. No API key, no cost.
 //
 // Usage:
-//   node scripts/lookup.mjs <username>
+//   node scripts/lookup.mjs <neeeeerrrrrddddd>
 //
 // Examples:
 //   node scripts/lookup.mjs nullpounce
